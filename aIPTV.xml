@@ -15,10 +15,10 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <ReadMe>https://discord.gg/PdCVWvuc</ReadMe>
-  <Support>https://discord.gg/PdCVWvuc</Support>
-  <Project>https://discord.gg/PdCVWvuc</Project>
-  <Discord>https://discord.gg/gFz7EtHhG2</Discord>
+  <ReadMe>https://discord.gg/8KGGEprw</ReadMe>
+  <Support>https://discord.gg/8KGGEprw</Support>
+  <Project>https://discord.gg/8KGGEprw</Project>
+  <Discord>https://discord.gg/8KGGEprw</Discord>
   <Overview>aIPTV is an IPTV proxy application that enables users to curate complex M3U playlists, manage them, and proxy them to various applications like Emby, Plex, Jellyfin, or any other compatible streaming platform. It offers the flexibility to import an unlimited number of M3U and EPG files, supporting a wide range of streaming content. aIPTV delivers fast and reliable streaming across multiple operating systems. Additional features, such as robust proxying and support for multiple clients on a single backend stream, make it a comprehensive solution for today’s streaming needs.</Overview>
   <Category>MediaApp:Other</Category>
   <WebUI>http://[IP]:[PORT:5002]/</WebUI>
