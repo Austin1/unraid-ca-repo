@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Dispatcharr</Name>
+  <Beta>True</Beta>
   <Repository>dispatcharr/dispatcharr:latest</Repository>
   <Registry>https://hub.docker.com/r/dispatcharr/dispatcharr</Registry>
   <Network>bridge</Network>
@@ -22,7 +23,7 @@
   <DonateLink/>
   <Requires/>
   <Config Name="Port" Target="9191" Default="" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">9191</Config>
-  <Config Name="DB" Target="/app/data/db" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/Dispatcharr/db</Config>
+  <Config Name="DB" Target="/data" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/dispatcharr/data</Config>
   <Config Name="DISPATCHARR_ENV" Target="DISPATCHARR_ENV" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">aio</Config>
   <Config Name="REDIS_HOST" Target="REDIS_HOST" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">localhost</Config>
   <Config Name="CELERY_BROKER_URL" Target="CELERY_BROKER_URL" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">redis://localhost:6379/0</Config>
