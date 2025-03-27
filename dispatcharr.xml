@@ -2,8 +2,8 @@
 <Container version="2">
   <Name>Dispatcharr</Name>
   <Beta>True</Beta>
-  <Repository>dispatcharr/dispatcharr:latest</Repository>
-  <Registry>https://hub.docker.com/r/dispatcharr/dispatcharr</Registry>
+  <Repository>ghcr.io/dispatcharr/dispatcharr:latest</Repository>
+  <Registry>ghcr.io/dispatcharr/dispatcharr:latest</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
