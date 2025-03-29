@@ -8,7 +8,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://discord.gg/kdjm8RxP</Support>
+  <Support>https://discord.gg/wfeqTRRJru</Support>
   <Project>https://github.com/Dispatcharr/Dispatcharr/</Project>
   <Overview>Dispatcharr is a new opensource IPTV proxy in the earliest stages of development. A Python-based application running on Django with Gunicorn server. This software is considered an alpha build and should not be considered stable or feature complete.</Overview>
   <Category>MediaApp:Video</Category>
