@@ -10,7 +10,7 @@
   <Privileged>false</Privileged>
   <Support>https://discord.gg/wfeqTRRJru</Support>
   <Project>https://github.com/Dispatcharr/Dispatcharr/</Project>
-  <Overview>Dispatcharr is a new opensource IPTV proxy in the earliest stages of development. A Python-based application running on Django with Gunicorn server. This software is considered an alpha build and should not be considered stable or feature complete.</Overview>
+  <Overview>Dispatcharr is a IPTV streaming playlist (m3u m3u8) editor and proxy.  IPTV proxy application that enables users to curate complex M3U playlists, manage them, and proxy them to various applications like Emby, Plex, Jellyfin, or any other compatible streaming platform. It offers the flexibility to import an unlimited number of M3U and EPG files, supporting a wide range of streaming content. Dispatcharr delivers fast and reliable streaming across multiple operating systems. Additional features, such as robust proxying and support for multiple clients on a single backend stream, make it a comprehensive solution for today’s streaming needs.  Proxy Streaming Engine - Stream more reliably, with fewer provider connections. Real-Time Stats Dashboard - Monitor stream health and client activity live. EPG Auto-Match - Automatically map guide data to your channels. Output Compatibility - Works with Plex, Jellyfin, Emby, ChannelsDVR and more (HDHomeRun, M3U, XMLTV). </Overview>
   <Category>MediaApp:Video</Category>
   <WebUI>http://[IP]:[PORT:9191]</WebUI>
   <TemplateURL/>
