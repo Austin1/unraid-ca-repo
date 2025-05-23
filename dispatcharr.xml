@@ -27,5 +27,6 @@
   <Config Name="DISPATCHARR_ENV" Target="DISPATCHARR_ENV" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">aio</Config>
   <Config Name="REDIS_HOST" Target="REDIS_HOST" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">localhost</Config>
   <Config Name="CELERY_BROKER_URL" Target="CELERY_BROKER_URL" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">redis://localhost:6379/0</Config>
+  <Config Name="DISPATCHARR_LOG_LEVEL" Target="DISPATCHARR_LOG_LEVEL" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">info</Config>
   <TailscaleStateDir/>
 </Container>
